@@ -1,0 +1,7 @@
+.list-group-item {
+	cursor: pointer;
+}
+
+#actions-buttons {
+	margin-bottom: 20px;
+}
